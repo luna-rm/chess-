@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 9c3544d771c185346bf9fa0e561a4098
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pawnPrefab: {fileID: 3832155336076407217, guid: 416b91c77696ffc46a96b51caacbadda, type: 3}
+  - towerPrefab: {fileID: 7405356927339765243, guid: e3a9de7b4b3c9274582ebef2dfecd352, type: 3}
+  - horsePrefab: {fileID: 7185487218612405178, guid: 459cdb76b5e3c024faa59b89a8a5a050, type: 3}
+  - bishopPrefab: {fileID: 3894197873160034096, guid: 504a2aad6feac5c4da4b3417fb7c39d2, type: 3}
+  - kingPrefab: {fileID: 4274669924347407408, guid: fe8269e75c4ae4043b8f235e521e5d6a, type: 3}
+  - queenPrefab: {fileID: -7458999987039296515, guid: 7c17c0c200c132f4c99e1b27559b75d7, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
